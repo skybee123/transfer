@@ -1,7 +1,7 @@
 # transfer
 
 Chapter1
-
+\
 What does a blockchain state in Ethereum capture? => 0.0.1 page 12\
 What is the world state in Ethereum? => 0.0.1 page 16\
 What are the two types of accounts in Ethereum? => 0.0.1 page 18\
@@ -26,7 +26,8 @@ getter functions => 2.2 page 10\
 
 
 
-Chapter 3
+Chapter 3\
+\
 3.2 sequence diagram for lottery page 7\
 3.3 escrow page 3\
 3.3 escrow sequence diagram page 13\
@@ -44,8 +45,10 @@ Chapter 3
 
 
 Chapter 4\
+\
 4.1 only slide\
 
 Chapter 5\
+\
 ongoing\
 
