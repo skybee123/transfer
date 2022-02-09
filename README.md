@@ -47,7 +47,7 @@ Chapter 3\
 Chapter 4\
 \
 4.1 only slide\
-ongoing\
+==> how to beef up your smart copntract to prevent hacking
 
 Chapter 5\
 \
