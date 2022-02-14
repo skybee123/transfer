@@ -53,9 +53,10 @@ Traditional contracts classification, why we need it=> Page 5\
   - Express vs Imlied => page 14 - 15\
   - Contract-like enforcement mechanism => page 16 - 18\
 \
+\
 Legally Enforceable Contract Components => page 19\
   - offer(20),acceptace(21),consideration(23)\
-
+\
 Mutual Assent => page 24\
 Complications of contract(unilateral and bilateral) => page 26\
 Mirror Image Rule => page 29\
