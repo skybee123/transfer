@@ -55,38 +55,39 @@ Traditional contracts classification, why we need it=> Page 5\
 \
 Legally Enforceable Contract Components => page 19\
   - offer(20),acceptace(21),consideration(23)\
+
 Mutual Assent => page 24\
 Complications of contract(unilateral and bilateral) => page 26\
 Mirror Image Rule => page 29\
 Mailbox Rule => page 30\
 Click is Consent => page 32\
- \
+\
 Online Contract => page 35\
   - Inivitations to treat and offer\
   - Contracts on Web\
   - Acceptance\
   - Consideration\
-Incorporation of terms\
+  - Incorporation of terms\
  \
  \
-Smart Contract=> page 46\
+ Smart Contract=> page 46\
   - Examples => page 49\
   - Weak and Strong Contracts => page 51\
+
+\
 Formation => page 52\
   - performance & consideration\
   - finality ambiguity\
   - ex-ante, ex-post\
- \
+\
 Performance - Imperfect? Substantial => page 58\
 \
 Modification - problem for smart contract =. page 59\
 \
 Enforcement, Breach and Remedies => page 61 - 64\
 \
- \
 Contractware(enforcement software) => page 79 - 84\
- \
- \
+\
 Self help(take law into one's own hands) => page 85\
  
  
